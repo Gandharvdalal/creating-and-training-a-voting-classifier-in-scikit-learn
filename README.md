@@ -10,3 +10,8 @@ moons dataset is a sklearn in built data set
 know more about the data set through the following link-
 
 https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_moons.html
+
+
+result --
+
+the voting classifier slightly outperforms all the individual classifiers.
